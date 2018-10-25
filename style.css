@@ -1,0 +1,8 @@
+p, input, button {
+ align-content: center;
+ text-align: center;
+}
+
+body {
+  background-color: rgb(241, 224, 62);
+}
